@@ -10,6 +10,9 @@
 - [SpringBoot + Microservices](https://github.com/rafaelturse/hands-on-java-spring-microservice)
 - [SpringBoot + Microservices - Configs](https://github.com/rafaelturse/hands-on-java-spring-microservice-configs)
 
+- [SpringBoot + React (**frontend**)](https://github.com/rafaelturse/hands-on-springboot-react-school-app)
+- [SpringBoot + React (**backend**)](https://github.com/rafaelturse/hands-on-springboot-react-school)
+
 <br>
 <br>
 
