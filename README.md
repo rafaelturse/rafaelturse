@@ -6,12 +6,18 @@
 <br>
 
 ##  :boom: Hands-ON Projects
-**☕ Java**
-- [SpringBoot + Microservices](https://github.com/rafaelturse/hands-on-java-spring-microservice)
-- [SpringBoot + Microservices - Configs](https://github.com/rafaelturse/hands-on-java-spring-microservice-configs)
+- **☕ Java + React**
+  - [SpringBoot + Microservices](https://github.com/rafaelturse/hands-on-java-spring-microservice)
+  - [SpringBoot + Microservices - **Configs**](https://github.com/rafaelturse/hands-on-java-spring-microservice-configs)
+  - [SpringBoot + React - **frontend**](https://github.com/rafaelturse/hands-on-springboot-react-school-app)
+  - [SpringBoot + React - **backend**](https://github.com/rafaelturse/hands-on-springboot-react-school)
 
-- [SpringBoot + React (**frontend**)](https://github.com/rafaelturse/hands-on-springboot-react-school-app)
-- [SpringBoot + React (**backend**)](https://github.com/rafaelturse/hands-on-springboot-react-school)
+- **🌀 c# + ASP.NET CORE + Angular**
+  - [ASP.NET Core + Angular - **frontend**](https://github.com/rafaelturse/hands-on-aspnetcore-angular-proagile-webapp)
+  - [ASP.NET Core + Angular - **backend**](https://github.com/rafaelturse/hands-on-aspnetcore-angular-proagile)  
+
+- **😎 Portfolio**
+  - [Portfolio website](https://github.com/rafaelturse/portfolio)
 
 <br>
 <br>
