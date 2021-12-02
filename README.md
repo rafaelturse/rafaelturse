@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 👋
+
+💬 Software developer graduated in Information Systems from São Judas Tadeu University, focused on architecture and software engineering.
 
 <!--
 **rafaelturse/rafaelturse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
