@@ -22,6 +22,23 @@
 <br>
 <br>
 
+<br>
+<br>
+
+## GitHub Stats
+<div align="center">
+  <img height="160em"   
+       align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelturse&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"
+  >
+  <img height="160em" 
+       align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelturse&&layout=compact&hide=shell&theme=highcontrast"
+  >
+</div>
+
+<br>
+<br>
+
 ##  :boom: Landscape
 > Frontend
 <div>
@@ -74,20 +91,10 @@
 <div>
   <img align = "center" src="https://i.imgur.com/WVuA8RH.png" alt="postman" width="35" height="35"/>
 </div>
-
+                                                                                                  
 <br>
 <br>
-
-## GitHub Stats
+                                                                                                                                     
 <div>
-  <img height="160em"   
-       align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelturse&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"
-  >
-  <img height="160em" 
-       align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelturse&&layout=compact&hide=shell&theme=highcontrast"
-  >
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-<br>
-
