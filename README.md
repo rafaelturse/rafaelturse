@@ -46,17 +46,20 @@
   <img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" />
   <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" /> 
   <img align = "center" src="https://i.imgur.com/t1oS4Pz.png" alt="typescript" width="32" />  
+  <img align = "center" src="https://github.com/rafaelturse/portfolio/blob/master/art/icon/technology/icon-Inkscape.svg" alt="inkscape" width="86" />    
+  <img align = "center" src="https://github.com/rafaelturse/portfolio/blob/master/art/icon/technology/icon-ajax.png" alt="inkscape" width="64" />
 </div>
 <br>
 
 > Backend
 <div>
-  <img align = "center" src="https://i.imgur.com/g6Wg8Ey.png" alt="java" width="40" /> 
-  <img align = "center" src="https://i.imgur.com/emPAeK4.png" alt="spring" width="40" /> 
-  <img align = "center" src="https://i.imgur.com/eKV8V75.png  alt="python" width="40" />
-  <img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" /> 
-  <img align = "center" src="https://i.imgur.com/OeXAPLT.png" alt="csharp" width="40" />
-  <img align = "center" src="https://i.imgur.com/co3aDyw.png" alt="junit" width="30" />
+  <img align = "center" src="https://i.imgur.com/g6Wg8Ey.png" title="Java" width="40" /> 
+  <img align = "center" src="https://i.imgur.com/emPAeK4.png" title="Spring" width="40" /> 
+  <img align = "center" src="https://i.imgur.com/eKV8V75.png  title="Python" width="40" />
+  <img align = "center" src="https://i.imgur.com/LgigRLh.png" title="Node" width="40" /> 
+  <img align = "center" src="https://i.imgur.com/OeXAPLT.png" title="C#" width="40" />
+  <img align = "center" src="https://i.imgur.com/co3aDyw.png" title="JUnit" width="30" />
+  <img align = "center" src="https://github.com/rafaelturse/portfolio/blob/master/art/icon/technology/icon-androidstudio.png" title="Android Studio" width="36" />
 </div>
 <br>
 
