@@ -36,7 +36,7 @@
 <br>
 <br>
 
-##  :boom: Landscape
+##  :boom: Landscape - stacks and technologies I can handle
 > Frontend
 <div>
   <img align = "center" src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" />
