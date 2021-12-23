@@ -55,6 +55,9 @@
 <br>
 
 - Always: 
+  - **Family**
   - **Coding**
   - **Guitar**
   - **Writing a Book**
+  - **Gaming**
+  - **Biking**
