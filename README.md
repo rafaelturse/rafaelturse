@@ -44,20 +44,20 @@
 
 <br>
 
-- :wrench: Profession: **Software Developer**
-  - **Backend**
-  - **Frontend**
-  - **Database**
-  - **DevOps**
-  - **Motion Design**
-  - **CMS**
+- :wrench: **Software Developer**
+  - Backend
+  - Frontend
+  - Database
+  - DevOps
+  - Motion Design
+  - CMS
 
 <br>
 
-- :trophy: Always: 
-  - **Family**
-  - **Coding**
-  - **Guitar**
-  - **Writing a Book**
-  - **Gaming**
-  - **Biking**
+- :trophy: **Always** 
+  - Family
+  - Coding
+  - Guitar
+  - Writing a Book
+  - Gaming
+  - Biking
