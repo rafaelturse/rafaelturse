@@ -38,9 +38,9 @@
 
 ##  :boom: About
 
-- :house: Place: **Waterfront - Toronto, Canada**
-- :loudspeaker: Bilingual: **English - Portuguese**
 - :mortar_board: **Self Taught**
+- :loudspeaker: Bilingual: **English - Portuguese**
+- :house: Place: **Waterfront - Toronto, Canada**
 
 <br>
 
