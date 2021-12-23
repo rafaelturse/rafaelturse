@@ -4,13 +4,6 @@
 
 <br>
 <br>
-##  :boom: About
-<ul>
-  <li>Bilingual: English - Portuguese</li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
 
 ##  :boom: Hands-ON Projects
 - **☕ Java + React**
@@ -39,3 +32,29 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelturse&&layout=compact&hide=shell&theme=highcontrast"
   >
 </div>
+
+<br>
+<br>
+
+##  :boom: About
+
+- Place: **Waterfront - Toronto, Canada**
+- Bilingual: **English - Portuguese**
+- **Self Taught**
+
+<br>
+
+- Profession: **Software Developer**
+  - **Backend**
+  - **Frontend**
+  - **Database**
+  - **DevOps**
+  - **Motion Design**
+  - **CMS**
+
+<br>
+
+- Always: 
+  - **Coding**
+  - **Guitar**
+  - **Writing a Book**
