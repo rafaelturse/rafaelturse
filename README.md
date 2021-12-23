@@ -12,7 +12,7 @@
   - [SpringBoot + React - **frontend**](https://github.com/rafaelturse/hands-on-springboot-react-school-app)
   - [SpringBoot + React - **backend**](https://github.com/rafaelturse/hands-on-springboot-react-school)
 
-- **🌀 c# + ASP.NET CORE + Angular**
+- **🌀 C# + ASP.NET CORE + Angular**
   - [ASP.NET Core + Angular - **frontend**](https://github.com/rafaelturse/hands-on-aspnetcore-angular-proagile-webapp)
   - [ASP.NET Core + Angular - **backend**](https://github.com/rafaelturse/hands-on-aspnetcore-angular-proagile)  
 
