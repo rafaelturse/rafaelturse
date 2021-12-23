@@ -4,6 +4,13 @@
 
 <br>
 <br>
+##  :boom: About
+<ul>
+  <li>Bilingual: English - Portuguese</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 ##  :boom: Hands-ON Projects
 - **☕ Java + React**
@@ -22,7 +29,7 @@
 <br>
 <br>
 
-## GitHub Stats
+##  :boom: GitHub Stats
 <div align="center">
   <img height="160em"   
        align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelturse&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"
