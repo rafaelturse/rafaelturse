@@ -38,13 +38,13 @@
 
 ##  :boom: About
 
-- Place: **Waterfront - Toronto, Canada**
-- Bilingual: **English - Portuguese**
-- **Self Taught**
+- :house: Place: **Waterfront - Toronto, Canada**
+- :loudspeaker: Bilingual: **English - Portuguese**
+- :mortar_board: **Self Taught**
 
 <br>
 
-- Profession: **Software Developer**
+- :wrench: Profession: **Software Developer**
   - **Backend**
   - **Frontend**
   - **Database**
@@ -54,7 +54,7 @@
 
 <br>
 
-- Always: 
+- :trophy: Always: 
   - **Family**
   - **Coding**
   - **Guitar**
