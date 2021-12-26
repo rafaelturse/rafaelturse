@@ -58,6 +58,6 @@
   - Family
   - Coding
   - Guitar
-  - Writing a Book
+  - Writing my book
   - Gaming
   - Biking
