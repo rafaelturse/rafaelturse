@@ -16,7 +16,7 @@
   - [ASP.NET Core + Angular - **frontend**](https://github.com/rafaelturse/hands-on-aspnetcore-angular-proagile-webapp)
   - [ASP.NET Core + Angular - **backend**](https://github.com/rafaelturse/hands-on-aspnetcore-angular-proagile)  
 
-- **😎 Portfolio**
+- **🎨 React**
   - [Portfolio website](https://github.com/rafaelturse/portfolio)
 
 <br>
