@@ -22,6 +22,7 @@
 <br>
 <br>
 
+<!--
 ##  :boom: GitHub Stats
 <div align="center">
   <img height="160em"   
@@ -35,6 +36,7 @@
 
 <br>
 <br>
+-->
 
 ##  :boom: About
 
