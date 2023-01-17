@@ -20,7 +20,6 @@
   - [Portfolio website](https://github.com/rafaelturse/portfolio)
 
 <br>
-<br>
 
 <!--
 ##  :boom: GitHub Stats
@@ -34,7 +33,6 @@
   >
 </div>
 
-<br>
 <br>
 -->
 
