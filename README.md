@@ -1,6 +1,6 @@
 # Welcome - Rafael Turse's GitHub
 
-💬 Software developer graduated in Information Systems from São Judas Tadeu University, focused on architecture and software engineering.
+💬 Full Stack Software Engineer graduated in Information Systems from São Judas Tadeu University, currently focused on coding and design patterns.
 
 <br>
 <br>
