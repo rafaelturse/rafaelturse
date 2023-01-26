@@ -40,7 +40,7 @@
 
 - :mortar_board: **Self Taught**
 - :loudspeaker: Bilingual: **English - Portuguese**
-- :house: Place: **Waterfront - Toronto, Canada**
+- :house: Place: **Waterfront - Toronto, ON - Canada**
 
 <br>
 
