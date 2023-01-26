@@ -1,6 +1,6 @@
 # Welcome - Rafael Turse's GitHub
 
-💬  Full Stack Software Engineer graduated in Information Systems from São Judas Tadeu University. Currently, I'm focused on coding and design patterns, working intensely with Java, Kotlin, React, SQL, Scrum, and Jira.
+💬  Full Stack Software Engineer graduated in Information Systems from São Judas Tadeu University. Currently, I'm focused on coding and design patterns, and I'm working intensely with Java, Kotlin, React, SQL, Scrum, and Jira.
 
 <br>
 <br>
