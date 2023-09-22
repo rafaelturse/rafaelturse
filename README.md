@@ -1,6 +1,6 @@
 # Welcome - Rafael Turse's GitHub
 
-💬  Software Engineer graduated in Information Systems from São Judas Tadeu University. Currently, my focus is coding and design patterns, and I'm working intensely with Java, Kotlin, React, SQL, Scrum, and Jira.
+💬  Software Engineer with a degree in Information Systems from Universidade São Judas Tadeu and a postgraduate degree in Mobile Application Development from George Brown College. Currently my focus is full-stack software engineering with Java, Kotlin, Swift, Javascript, Node, React, NoSQL and SQL.
 
 <br>
 <br>
