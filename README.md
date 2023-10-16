@@ -21,7 +21,7 @@
  
 ##  :boom: George Brown College Projects
   - [HTML + CSS + Javascript - **frontend**](https://github.com/rafaelturse/georgebrown-project-festival-website-group-06)
-  - [Node + Express + Handlebars + HTML + CSS + Javascript - **fullstack**](https://github.com/rafaelturse/gbc-20231003-fullstack-group-07)
+  - [Node + Express + Handlebars + HTML + CSS + Javascript - **fullstack**](https://github.com/rafaelturse/gbc-20231003-fullstack-group-07/tree/rafael)
 
 <br>
 
