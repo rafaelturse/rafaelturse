@@ -53,7 +53,7 @@
   - Frontend
   - Database
   - DevOps
-  - Motion Design
+  - Motion Design, UI UX
   - CMS
 
 <br>
@@ -61,7 +61,7 @@
 - :trophy: **Always** 
   - Family
   - Coding
-  - Guitar
+  - Guitar, Piano, Bass
   - Writing my book
   - Gaming
   - Biking
